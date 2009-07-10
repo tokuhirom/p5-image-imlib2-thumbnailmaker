@@ -27,7 +27,9 @@ Image::Imlib2::ThumbnailMaker -
 
 =head1 DESCRIPTION
 
-Image::Imlib2::ThumbnailMaker is
+Image::Imlib2::ThumbnailMaker is a simple thumbnail maker by Imlib2.
+
+Image::Imlib2 is a similar module to this. But Image::Imlib2::ThumbnailMaker has also functional interface and fast and lightweight.
 
 =head1 AUTHOR
 
